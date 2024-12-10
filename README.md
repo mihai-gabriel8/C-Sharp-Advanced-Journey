@@ -1,3 +1,9 @@
+# My journey to learn Advanced C# Concepts
+
+All the code in this repository was written along [Advanced C# Programming Course](https://pages.github.com/](https://www.youtube.com/watch?v=YT8s-90oDC0&t=285s)
+
+The code in some projects might be slightly modified and additional implementations might have been added.
+
 # C# Delegates
 
 ## DelegateBasicExample
