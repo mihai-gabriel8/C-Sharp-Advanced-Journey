@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ClubMembershipApplication", "ClubMembershipApplication", "{0AADCD31-B82A-411B-B4C3-A34FB72056F5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FieldValidatorAPI", "ClubMembershipApplication\FieldValidatorAPI\FieldValidatorAPI.csproj", "{94F34E39-1786-4BB7-9BFA-DD9A28FEF71D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94F34E39-1786-4BB7-9BFA-DD9A28FEF71D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94F34E39-1786-4BB7-9BFA-DD9A28FEF71D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94F34E39-1786-4BB7-9BFA-DD9A28FEF71D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94F34E39-1786-4BB7-9BFA-DD9A28FEF71D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{94F34E39-1786-4BB7-9BFA-DD9A28FEF71D} = {0AADCD31-B82A-411B-B4C3-A34FB72056F5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {008D6A0A-2448-4E41-AF60-935EF48466E9}
+	EndGlobalSection
+EndGlobal
